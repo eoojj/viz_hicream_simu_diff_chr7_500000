@@ -597,6 +597,7 @@
  "na.rm": false,
 "na.rm": false,
 "alpha":        1,
+"chunk_vars": "round_regions",
 "clickSelects": "Cluster",
 "alpha_off":        1,
 "showSelected": "round_regions",
